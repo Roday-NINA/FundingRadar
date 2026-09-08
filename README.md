@@ -1,6 +1,6 @@
 # Research Opportunity Radar
  
-A web-crawling and opportunity monitoring platform for identifying:
+## A web-crawling and opportunity monitoring platform for identifying:
  
 - Travel grants
 - Fieldwork funding
@@ -11,7 +11,7 @@ A web-crawling and opportunity monitoring platform for identifying:
 - Conferences
 - Research networks
  
-Current focus areas:
+## Current focus areas:
  
 - Arctic science
 - Ecology
@@ -20,10 +20,10 @@ Current focus areas:
 - Seabirds
 - Climate change
  
-Built in R using:
+## Built in R using:
  
 - rvest
 - httr2
 - tidyverse
  
-Status: Prototype
+## Status: Prototype
